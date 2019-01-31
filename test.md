@@ -1,7 +1,7 @@
-#Getting Started
+# Getting Started
 > MSA 프로젝트 101 
 
-##Steps
+## Steps
 1. [Docker 설치](#1-Docker-설치)
 2. [miniKube 설치](#2-miniKube-설치)
 3. [mariaDB 설치](#3-mariaDB-설치) 
@@ -9,7 +9,6 @@
 5. [ICP 활용](#5-ICP-활용)
 
 ### 1. Docker 설치
-
 
 ### 2. miniKube 설치
 
